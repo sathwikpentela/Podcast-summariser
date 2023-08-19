@@ -1,0 +1,12 @@
+pandas
+langchain
+anthropic
+spacy
+yt-dlp
+openai-whisper
+python-dotenv
+openai
+tiktoken
+nltk
+numpy
+llama-index

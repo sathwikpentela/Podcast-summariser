@@ -1,0 +1,10 @@
+.env
+tmp
+.ipynb_checkpoints
+.DS_Store
+
+chroma_logs.log
+.chroma
+
+podcasts-clean-transcripts
+podcasts-raw-transcripts
